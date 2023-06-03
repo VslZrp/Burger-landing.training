@@ -116,7 +116,11 @@ h2 {
   color: #ffffff;
   position: relative;
 }
+.header__currency {
+  align-items: center;
+}
 .header__button {
+  align-items: center;
   font-family: "Gilroy";
   font-weight: 600;
   line-height: 122.2222222222%;
